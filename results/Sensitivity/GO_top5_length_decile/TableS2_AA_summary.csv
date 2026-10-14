@@ -1,0 +1,21 @@
+"Amino acid","Amino acid name","Group proteins","Group proteins with GO BP","Terms tested","Significant GO BP terms"
+"A","Alanine",1035,834,272,70
+"C","Cysteine",1037,889,277,108
+"D","Aspartate",1038,908,367,91
+"E","Glutamate",1035,814,246,91
+"F","Phenylalanine",1038,924,258,92
+"G","Glycine",1040,810,303,89
+"H","Histidine",1040,870,169,27
+"I","Isoleucine",1034,926,302,104
+"K","Lysine",1039,860,184,51
+"L","Leucine",1036,857,258,69
+"M","Methionine",1038,910,368,104
+"N","Asparagine",1036,879,336,55
+"P","Proline",1034,733,249,73
+"Q","Glutamine",1038,808,271,70
+"R","Arginine",1038,774,182,31
+"S","Serine",1034,778,272,80
+"T","Threonine",1034,863,274,59
+"V","Valine",1035,936,279,71
+"W","Tryptophan",1047,822,246,62
+"Y","Tyrosine",1038,921,291,54

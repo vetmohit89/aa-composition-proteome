@@ -1,0 +1,3 @@
+"comparison","median_group_jaccard","primary_sig","alt_sig","pct_primary_sig_recovered","pct_top_terms_recovered","log2OR_spearman_all_shared_tests"
+"Unadjusted Z, dominant AA",0.676918297607953,1255,1274,71.3147410358566,97.5,0.937655000167468
+"Top 5% within length deciles",0.444184670377548,1255,1451,62.0717131474104,91.5,0.882673600765924

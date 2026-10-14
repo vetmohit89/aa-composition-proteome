@@ -1,0 +1,20 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Large input downloaded from UniProt (see README)
+*.fasta
+*.fasta.gz
+*.fa
+*.fa.gz
+
+# Office lock / temp files
+~$*
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
